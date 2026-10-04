@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://kj84.tistory.com/rss"
+          feed_list: "https://kj84xen.tistory.com/rss"
           max_post_count: 5
           committer_username: kj84xen
           committer_email: hkj1984@gmail.com
