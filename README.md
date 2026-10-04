@@ -3,7 +3,6 @@
 웹 개발자. 서비스를 만들고 기록합니다.
 
 - 개발 일지: [kj84.tistory.com](https://kj84.tistory.com)
-- 유닉스 강좌: [YouTube @kj84xen](https://www.youtube.com/@kj84xen) (73편)
 
 #### 최근 기록
 
