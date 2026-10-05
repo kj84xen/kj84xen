@@ -32,6 +32,8 @@
 #### 최근 기록
 
 [![IT 토픽 노트](https://img.shields.io/badge/IT_토픽_노트-kj84xen.tistory.com-FF7A1A?style=flat-square&logo=tistory&logoColor=white)](https://kj84xen.tistory.com)
+[![사이트](https://img.shields.io/badge/사이트-kj84xen.github.io-18181B?style=flat-square&logo=githubpages&logoColor=white)](https://kj84xen.github.io)
+[![유튜브](https://img.shields.io/badge/유튜브-@kj84xen-18181B?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@kj84xen)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
